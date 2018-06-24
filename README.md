@@ -1,5 +1,5 @@
 # Using Sessions
-
+d
 ## Objectives
 
 1. Gain a deeper understanding of sessions in a web application.
